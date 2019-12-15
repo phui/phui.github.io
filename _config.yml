@@ -1,0 +1,60 @@
+layout: stacked
+style: light
+
+plugins:
+  - jekyll-octicons
+  - jekyll-github-metadata
+  - jemoji
+
+permalink: /:year/:month/:day/:title/
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+
+projects:
+  sort_by: stars
+  # sort_by options:
+  #   - pushed
+  #   - stars
+  limit: 6
+  exclude:
+    archived: true
+    forks: true
+    projects:
+    # - repo-name
+
+social_media:
+  # behance: your_username
+  # dribbble: your_username
+  # facebook: your_username
+  # hackerrank: your_username
+  # instagram: your_username
+  # keybase: your_username
+  linkedin: pikmaihui
+  # mastodon: your_username
+  # medium: your_username
+  # stackoverflow: your_user_id
+  # telegram: your_username
+  # twitter: your_username
+  # unsplash: your_username
+  # vk: your_username
+  # website: http://your_website_url
+  # youtube: your_username
+
+topics:
+  - name: BotSlayer
+    web_url: https://https://osome.iuni.iu.edu/tools/botslayer/
+    image_url: /assets/botslayer.png
+
+  - name: Bot Electioneering Volume
+    web_url: https://botometer.iuni.iu.edu/bev/
+    image_url: https://botometer.iuni.iu.edu/bev/static/image/logo.png
+
+  - name: Hoaxy
+    web_url: https://hoaxy.iuni.iu.edu/
+    image_url: https://osome.iuni.iu.edu/tools/img/hoaxy.png
