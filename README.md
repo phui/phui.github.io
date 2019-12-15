@@ -1,3 +1,9 @@
+# TODO:
+
+1. reCAPTCHA mailhide
+
+2. favourite repos
+
 # Get started building your personal website
 
 ### Showcase your software development skills
