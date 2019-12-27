@@ -17,16 +17,21 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: stars
+  sort_by: pushed
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 6
+  limit: 10
   exclude:
-    archived: true
-    forks: true
+    archived: false
+    forks: false
     projects:
-    # - repo-name
+     - phui.github.io
+     - kcoloring
+  include:
+    - IUNetSci/BotSlayer-CE
+    - phui/tweet_redis
+    - phui/twitter_log_pipeline
 
 social_media:
   # behance: your_username
