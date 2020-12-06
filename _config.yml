@@ -51,7 +51,7 @@ social_media:
   website: http://stuffoverflow.com
   # youtube: your_username
 
-topics:
+research:
   - name: BotSlayer
     web_url: https://osome.iuni.iu.edu/tools/botslayer/
     image_url: /assets/botslayer.png
@@ -67,3 +67,48 @@ topics:
     image_url: https://botometer.osome.iu.edu/static/assets/img/banner-logo.png
     description: Botometer checks the activity of a Twitter account and gives it a score. Higher scores mean more bot-like activity.
 
+media:
+  - name: Pro-Trump youth group enlists teens in secretive campaign likened to a ‘troll farm,’ prompting rebuke by Facebook and Twitter
+    web_url: https://www.washingtonpost.com/politics/turning-point-teens-disinformation-trump/2020/09/15/c84091ae-f20a-11ea-b796-2dd09962649c_story.html
+    image_url: https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7EIOEGCEIMI6VKTKBA6QDM7NDA.jpg&w=916
+    description: The Washington Post
+
+  - name: Tracking viral misinformation ahead of the 2020 Election
+    web_url: https://www.linkedin.com/feed/update/urn:li:activity:6727949117865164800/
+    image_url: https://media-exp1.licdn.com/dms/image/sync/C4D27AQHcVLOfL-T27Q/articleshare-shrink_1280_800/0?e=1607374800&v=beta&t=Z5GYrE28LqcIf2htblMp4zl64BEURkz0JdSJZI03UF0
+    description: The New York Times
+
+  - name: Disinformation Machine for Trump Targets Remaining Swing States
+    web_url: https://www.bloomberg.com/news/articles/2020-11-05/disinformation-machine-for-trump-targets-remaining-swing-states
+    image_url: https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ikEtEs0kOo5Y/v0/2000x-1.jpg
+    description: Bloomberg News
+
+  - name: Twitter Bots Poised to Spread Disinformation Before Election
+    web_url: https://www.nytimes.com/2020/10/29/technology/twitter-bots-poised-to-spread-disinformation-before-election.html
+    image_url: https://static01.nyt.com/images/2020/10/30/business/30distortions-botnets/merlin_179142000_039604bc-f268-4ee0-b05b-3861a3c9ff27-superJumbo.jpg?quality=90&auto=webp
+    description: The New York Times
+
+  - name: Bot or Not? Online Tools Seek to Cut Through Disinformation Fog
+    web_url: https://www.bloomberg.com/news/articles/2020-03-05/bot-or-not-online-tools-seek-to-cut-through-disinformation-fog
+    image_url: https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAiPMWEZqU9s/v0/800x-1.jpg
+    description: Bloomberg News
+
+  - name: You can join the effort to expose Twitter bots
+    web_url: https://theconversation.com/you-can-join-the-effort-to-expose-twitter-bots-124377
+    image_url: https://images.theconversation.com/files/300508/original/file-20191106-12487-2cyp4v.jpg?ixlib=rb-1.1.0&rect=0%2C1962%2C8155%2C4071&q=45&auto=format&w=1356&h=668
+    description: The Conversation
+
+  - name: How to Find and Kill the Internet's Propaganda Bots
+    web_url: https://nationalinterest.org/blog/buzz/how-find-and-kill-internets-propaganda-bots-100772
+    image_url: https://nationalinterest.org/sites/default/files/styles/desktop__1260_/public/main_images/RTX7AK7U.jpg?itok=H3fb976y
+    description: The National Interest
+
+  - name: Exclusive Twitter deletes over 10,000 accounts that sought to discourage U.S. voting
+    web_url: https://www.reuters.com/article/us-usa-election-twitter-exclusive-idUSKCN1N72FA
+    image_url: https://static.reuters.com/resources/r/?m=02&d=20181102&t=2&i=1321410250&r=LYNXNPEEA11HO&w=2048
+    description: Reuters
+
+  - name: Trump Retweet of Alleged Whistle-Blower’s Name Is Back on Twitter
+    web_url: https://www.bloomberg.com/news/articles/2019-12-28/trump-names-ukraine-whistle-blower-in-a-retweet-he-later-deleted
+    image_url: https://viterbicareers.usc.edu/wp-content/uploads/2019/08/social-default-a4f15fa7ee.jpg
+    description: Bloomberg News

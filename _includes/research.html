@@ -1,9 +1,9 @@
 <h2 {% if site.style == 'dark' %}class="text-white f4"{% endif %}>Research</h2>
 <br/>
 <div class="d-flex flex-wrap gutter-condensed mb-4">
-  {% for topic in site.topics %}
+  {% for research in site.research %}
     <div class="col-6 col-md-12 col-lg-6 col-xl-4 mb-3">
-      {% include topic-card.html %}
+      {% include research-card.html %}
     </div>
   {% endfor %}
 </div>

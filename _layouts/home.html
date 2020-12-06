@@ -12,15 +12,21 @@
         {% include introduction.html %}
     </div>
 
-    {% if site.topics %}
+    {% if site.research%}
       <div class="my-6">
-        {% include interests.html %}
+        {% include research.html %}
       </div>
     {% endif %}
 
     <div class="my-6">
       {% include projects.html %}
     </div>
+
+    {% if site.research%}
+      <div class="my-6">
+        {% include media.html %}
+      </div>
+    {% endif %}
 
     <div class="my-6">
         {% include publications.html %}

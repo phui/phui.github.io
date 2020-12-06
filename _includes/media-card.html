@@ -1,0 +1,16 @@
+<a target="_blank" href="{{ media.web_url }}" class="github-component position-relative hover-grow height-full no-underline d-flex flex-column flex-justify-center text-center border border-gray-light rounded-1 bg-white p-5">
+{% if media.image_url %}
+  <img src="{{ media.image_url }}" style="max-width:100%;" class="mx-auto rounded-1 mb-3" alt="{{ media.name }}">
+{% else %}
+  <div
+    class="bg-blue-light f4 text-gray-light text-bold rounded-1 flex-shrink-0 text-center mx-auto mb-3"
+    style="width:64px; height:64px; line-height:64px;"
+  >
+    #
+  </div>
+{% endif %}
+<p class="f3 lh-condensed text-left link-gray-dark mb-0 mt-1">{{ media.name }}</p>
+{% if media.description %}
+  <p class="f5 text-gray text-center mb-0 mt-1">{{ media.description }}</p>
+{% endif %}
+</a>
