@@ -55,12 +55,15 @@ topics:
   - name: BotSlayer
     web_url: https://osome.iuni.iu.edu/tools/botslayer/
     image_url: /assets/botslayer.png
+    description: BotSlayer is an application that helps track and detect potential manipulation of information spreading on Twitter.
 
   - name: Hoaxy
     web_url: https://hoaxy.iuni.iu.edu/
     image_url: https://osome.iuni.iu.edu/tools/img/hoaxy.png
+    description: Hoaxy is a tool that visualizes the spread of articles online. Articles can be found on Twitter, or in a corpus of claims and related fact checking.
 
   - name: Botometer
     web_url: https://botometer.iuni.iu.edu/
     image_url: https://botometer.osome.iu.edu/static/assets/img/banner-logo.png
+    description: Botometer checks the activity of a Twitter account and gives it a score. Higher scores mean more bot-like activity.
 
