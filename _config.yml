@@ -56,10 +56,11 @@ topics:
     web_url: https://osome.iuni.iu.edu/tools/botslayer/
     image_url: /assets/botslayer.png
 
-  - name: Bot Electioneering Volume
-    web_url: https://botometer.iuni.iu.edu/bev/
-    image_url: https://botometer.iuni.iu.edu/bev/static/image/logo.png
-
   - name: Hoaxy
     web_url: https://hoaxy.iuni.iu.edu/
     image_url: https://osome.iuni.iu.edu/tools/img/hoaxy.png
+
+  - name: Botometer
+    web_url: https://botometer.iuni.iu.edu/
+    image_url: https://botometer.osome.iu.edu/static/assets/img/banner-logo.png
+
